@@ -174,7 +174,7 @@
       "value": "${AZURE_SPEECH_SERVICE_LOCATION}"
     },
     "useAuthentication": {
-      "value": "${AZURE_USE_AUTHENTICATION=true}"
+      "value": "${AZURE_USE_AUTHENTICATION=false}"
     },
     "enforceAccessControl": {
       "value": "${AZURE_ENFORCE_ACCESS_CONTROL=false}"
